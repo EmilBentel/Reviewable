@@ -20,6 +20,10 @@ namespace Review
             int i = 3;
             string a = "a";
             bool b = true;
+
+            if (b) {
+                b = false;
+            }
         }
     }
 }

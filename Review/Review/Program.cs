@@ -24,6 +24,11 @@ namespace Review
             if (b) {
                 b = false;
             }
+
+            while (i == 3)
+            {
+                b = true;
+            }
         }
     }
 }

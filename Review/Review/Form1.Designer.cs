@@ -18,6 +18,11 @@
                 components.Dispose();
             }
             base.Dispose(disposing);
+
+            int H = 100;
+
+            bool fun = true;
+
         }
 
         #region Vom Windows Form-Designer generierter Code
